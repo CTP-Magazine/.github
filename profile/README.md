@@ -1,3 +1,5 @@
+[![CTP Magazine](https://ctp-magazine.github.io/assets/branding/ctp-magazine-1920x600.jpg)](https://ctp-magazine.github.io/)
+
 # CTP Magazine
 
 **Your Gateway into the C-domain.**
@@ -5,6 +7,13 @@
 CTP Magazine is a daily-updating magazine portal curating articles from around the internet — space, astronomy, consciousness, near-death experiences, UFOs and UAPs — in the format of a classic science magazine, OMNI-style: hard science and the speculative side by side, big visuals, features and short items, and a sense of wonder about the future.
 
 Live at **https://ctp-magazine.github.io/**
+
+## From the magazine
+
+<a href="https://ctp-magazine.github.io/"><img src="https://ctp-magazine.github.io/assets/hero/hero-01-gum-nebulae.jpg" width="49%" alt="The Gum 10 and Gum 11 nebulae — ESO, CC BY 4.0"></a>
+<a href="https://ctp-magazine.github.io/"><img src="https://ctp-magazine.github.io/assets/hero/hero-02-helix-nebula.jpg" width="49%" alt="The Helix Nebula — NASA, public domain"></a>
+
+*The Gum 10 and Gum 11 nebulae (ESO, CC BY 4.0) and the Helix Nebula (NASA, public domain) — from the magazine's hero rotation.*
 
 ## What it covers
 
