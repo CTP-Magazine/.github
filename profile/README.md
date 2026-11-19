@@ -33,7 +33,7 @@ No Vercel backend, no database. GitHub Actions + GitHub Pages only.
 
 Many bloggers on Substack, Blogger and elsewhere get little traffic, because nobody follows a one-off single blog. CTP Magazine syndicates blogs like yours and pushes the articles into the portal, in front of the magazine's readers: an excerpt plus a prominent link back to your original, with attribution on every item.
 
-There is no open submission form. Syndication is set up by contact: email [info@ctp-energy.com](mailto:info@ctp-energy.com) and the magazine will set it up with you. Every feed is vetted by the magazine first, before it is added.
+There is no open submission form. Syndication is set up by contact: email [syndication@ctp-energy.com](mailto:syndication@ctp-energy.com) and the magazine will set it up with you. Every feed is vetted by the magazine first, before it is added.
 
 ## The CTPVerse
 
